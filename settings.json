@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip" : "marrkoSMP.aternos.me",
+    "port": 33451,
     "version": "1.21.1"
   },
   "position": {
